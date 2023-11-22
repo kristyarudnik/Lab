@@ -22,7 +22,8 @@
 
 ## Диаграмма вариантов использования для функциональных требований ##
 
-![image](https://github.com/kristyarudnik/Lab/assets/102550294/bf2b7e37-f40b-4af5-87f0-5c7d9b1bdb60)
+![image](https://github.com/kristyarudnik/Lab/assets/102550294/15126802-00f4-4f57-8265-852e3796f481)
+
 
 
 ## Перечень сделанных предположений: ##  
