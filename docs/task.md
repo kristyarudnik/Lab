@@ -2,13 +2,13 @@
 
 ## Диаграмма компонентов
 
-![image](https://github.com/kristyarudnik/Lab/assets/102550294/02061baf-3638-4bf2-acb5-70d7797e0548)
+![image](https://github.com/kristyarudnik/Lab/assets/102550294/69b98895-6c4e-4eca-996b-92a526063435)
 
 Из данной диаграммы используется следующая часть(компонет) "API работы с данными отеля" и "Модуль бронирования".
 
 ## Диаграмма последовательностей
 
-![image](https://github.com/kristyarudnik/Lab/assets/102550294/d8ff5b8d-9970-42e8-b9fb-cc46aeb6183b)
+![image](https://github.com/kristyarudnik/Lab/assets/102550294/c5caa8bd-3c02-4cb4-9671-6cbfd585efc3)
 
 Диаграмма последовательности для прецедентов "Просмотр списков номеров", "Просмотр информации о номере", "Бронирование номера". 
 
