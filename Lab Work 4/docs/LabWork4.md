@@ -30,7 +30,7 @@
       "isAvailable": true,
       "rating": 4.5
     },
-    ...
+     ...
   ]
   ```
 
