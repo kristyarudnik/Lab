@@ -54,9 +54,9 @@ pm.test("Response contains room ID", function () {
 
 ## 4. Обновить информацию по комнате
 
-URI: /api/Rooms/:id
-Тип запроса: PUT
-Код тестов для для данного метода
+* URI: /api/Rooms/:id
+* Тип запроса: PUT
+* Код тестов для для данного метода
 
 pm.test("Status code is 204 No Content on success", function () {
     pm.response.to.have.status(204);
@@ -64,9 +64,9 @@ pm.test("Status code is 204 No Content on success", function () {
 
 ## 5. Удалить информацию по комнате
 
-URI: /api/Rooms/:id
-Тип запроса: DELETE
-Код тестов для для данного метода
+* URI: /api/Rooms/:id
+* Тип запроса: DELETE
+* Код тестов для для данного метода
 
 pm.test("Status code is 204 No Content on successful deletion", function () {
     pm.response.to.have.status(204);
@@ -74,9 +74,9 @@ pm.test("Status code is 204 No Content on successful deletion", function () {
 
 ## 6. Оценить комнату
 
-URI: /api/Rooms/:id/Rate
-Тип запроса: PUT
-Код тестов для для данного метода
+* URI: /api/Rooms/:id/Rate
+* Тип запроса: PUT
+* Код тестов для для данного метода
 
 pm.test("Status code is 204 No Content on successful rating update", function () {
     pm.response.to.have.status(204);
@@ -84,9 +84,9 @@ pm.test("Status code is 204 No Content on successful rating update", function ()
 
 ## 7. Забронировать комнату
 
-URI: /api/Rooms/:id/Reserve
-Тип запроса: PUT
-Код тестов для для данного метода
+* URI: /api/Rooms/:id/Reserve
+* Тип запроса: PUT
+* Код тестов для для данного метода
 
 pm.test("Status code is 204 No Content on successful reservation and verify no body", function () {
     pm.response.to.have.status(204);
@@ -98,9 +98,9 @@ pm.test("Is success", function () {
 
 ## 8. Отменить бронирование комнаты
 
-URI: /api/Rooms/:id/CancelReservation
-Тип запроса: PUT
-Код тестов для для данного метода
+* URI: /api/Rooms/:id/CancelReservation
+* Тип запроса: PUT
+* Код тестов для для данного метода
 
 
 pm.test("Status code is 204 No Content on successful reservation and verify no body", function () {
