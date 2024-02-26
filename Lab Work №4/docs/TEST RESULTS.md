@@ -16,7 +16,8 @@ pm.test("Response contains array of rooms", function () {
     pm.expect(jsonData).to.be.an('array');
 });
 ```
-![img](https://github.com/YusupovIlya/Software_architecture/blob/LabWork4/Lab%20Work%20%E2%84%964/docs/images/schema1%20input%20and%20results.jpg)
+![img](https://github.com/kristyarudnik/Lab/blob/LabWork4/Lab%20Work%20№4/docs/images/Получить%20список%20всех%20комнат.jpg)
+
 
 ## 2. Получить информацию о комнате по ID
 
